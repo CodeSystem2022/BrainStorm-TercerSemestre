@@ -2,7 +2,8 @@
 
 ## - Tercer Semestre
 
-![giphy](https://user-images.githubusercontent.com/112595749/234125774-baa29115-ef78-419b-8d76-c362f91054ba.gif)
+![giphy](https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/9199e057-c8c6-442b-baaa-2c3b7dc98f34))
+
 
 | -------      | Scrum Master      |
 | ----------   | -------------     |
