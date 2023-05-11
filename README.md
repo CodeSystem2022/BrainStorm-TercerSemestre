@@ -8,14 +8,14 @@
 | -------      | Scrum Master      |
 | ----------   | -------------     |
 | Semana 1  :brain:| Giunta Pilar      |
-| Semana 2  :o:| Castro Agustina   |
-| Semana 3  :o:| Masilla Jimena    |
-| Semana 4  :o:| Dasilva Daniel    |
-| Semana 5  :o:| Fernandez Gisela  |
-| Semana 6  :o:| Garcia Fernando   |
-| Semana 7  :o:| Leone Franco      |
-| Semana 8  :o:| Tonno Debora      |
-| Semana 9  :o:| Veron Octavio     |
+| Semana 2  :brain:| Castro Agustina   |
+| Semana 3  :brain:| Masilla Jimena    |
+| Semana 4  :brain:| Dasilva Daniel    |
+| Semana 5  :brain:| Fernandez Gisela  |
+| Semana 6  :brain:| Garcia Fernando   |
+| Semana 7  :brain:| Leone Franco      |
+| Semana 8  :brain:| Tonno Debora      |
+| Semana 9  :brain:| Veron Octavio     |
 
 <details><summary>INTEGRANTES</summary>
 <p>
