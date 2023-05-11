@@ -7,7 +7,7 @@
 
 | -------      | Scrum Master      |
 | ----------   | -------------     |
-| Semana 1  :brain::ray:| Giunta Pilar      |
+| Semana 1  :brain:| Giunta Pilar      |
 | Semana 2  :brain:| Castro Agustina   |
 | Semana 3  :brain:| Masilla Jimena    |
 | Semana 4  :brain:| Dasilva Daniel    |
