@@ -9,7 +9,7 @@
 | ----------   | -------------     |
 | Semana 1  :brain:| Giunta Pilar      |
 | Semana 2  :brain:| Castro Agustina   |
-| Semana 3  :brain:| Masilla Jimena    |
+| Semana 3  :brain:| Mansilla Jimena    |
 | Semana 4  :brain:| Dasilva Daniel    |
 | Semana 5  :brain:| Fernandez Gisela  |
 | Semana 6  :brain:| Garcia Fernando   |
