@@ -2,9 +2,11 @@
 
 ## - Tercer Semestre
 </br>
-<center>
-<img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/9199e057-c8c6-442b-baaa-2c3b7dc98f34>" width="500" height="500" align="center"/>
-  </center>
+
+
+<img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/05c71d0b-876c-4cce-abf7-76f2250003a6>" width="450" height="450" align="center"/>
+
+
 </br>
 </br>
 </br>
@@ -48,7 +50,7 @@
 
 
 <img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/26f1b700-dbd0-483a-a655-78ce8d80f580>" width="130" height="130" align="left"/>
-<img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/e7a7e4a5-7259-4a38-b027-6ffd736af6fc>" width="130" height="130" align="left"/>
+<img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/e7a7e4a5-7259-4a38-b027-6ffd736af6fc>" width="150" height="150" align="left"/>
 <img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/07686250-aceb-48fa-95d3-0b951565a184>" width="130" height="130" align="left"/>
 <img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/a86cc743-62a6-4a22-b5a8-e028cb6855e6>" width="130" height="130" align="rigth"/>
   
