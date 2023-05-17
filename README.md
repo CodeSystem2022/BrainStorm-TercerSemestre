@@ -1,9 +1,13 @@
 # - BrainStorm -
 
 ## - Tercer Semestre
-
-![giphy](https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/9199e057-c8c6-442b-baaa-2c3b7dc98f34)
-
+</br>
+<center>
+<img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/9199e057-c8c6-442b-baaa-2c3b7dc98f34>" width="500" height="500" align="center"/>
+  </center>
+</br>
+</br>
+</br>
 
 | SCRUM  MASTER    | SEMANA        |         TAREA         |    OBSERVACIONES        |            
 | :---:            | :---:  |:---: |:---:                  |               
