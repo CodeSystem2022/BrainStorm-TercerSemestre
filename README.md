@@ -13,10 +13,10 @@
 </br>
 
 | SCRUM  MASTER    | SEMANA        |         TAREA         |    OBSERVACIONES        |            
-| :---:            | :---:  |:---: |:---:                  |               
-| Giunta Pilar     | Semana 1      |   COMPLETADO✔️        |:black_circle: JavaScript fue asignada a Octavio Veron. por no ser entregada a tiempo, fue reasignada a Giunta Pilar              |                       
-| Castro Agustina  | Semana 2      |    COMPLETADO✔️       |:black_circle:Java fue asignada a Daniel Dasilva. fue subida fuera del tiempo establecido </br>:black_circle:JavaScript fue asignada a Franco Leone. fue subida fuera del tiempo establecido. | 
-| Mansilla Jimena  | Semana 3      |  EN PROCESO:clock10:       | :black_circle:Java fue asignada a Fernando Garcia. por no entregar a tiempo fue reasignada a Castro Agustina </br> :black_circle: Python fue asignada a Gisela Fernandez. fue subida fuera del tiempo establecido                        | 
+| :---:            | :---:          |:---:                  |:---                 |               
+| Giunta Pilar     | Semana 1      |   COMPLETADO✔️        |-JavaScript fue asignada a Octavio Veron. por no ser entregada a tiempo, fue reasignada a Giunta Pilar              |                       
+| Castro Agustina  | Semana 2      |    COMPLETADO✔️       | | 
+| Mansilla Jimena  | Semana 3      |  EN PROCESO:clock10:       |-Java fue asignada a Fernando Garcia. por no entregar a tiempo fue reasignada a Castro Agustina                         | 
 | Dasilva Daniel   | Semana 4      |   EN PROCESO:clock10:  |                         | 
 | Fernandez Gisela | Semana 5      |                       |                         | 
 | Garcia Fernando  | Semana 6      |                       |                         | 
