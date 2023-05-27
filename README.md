@@ -17,7 +17,7 @@
 | Giunta Pilar     | Semana 1      |   COMPLETADO✔️        |-JavaScript fue asignada a Octavio Veron. por no ser entregada a tiempo, fue reasignada a Giunta Pilar              |                       
 | Castro Agustina  | Semana 2      |    COMPLETADO✔️       | | 
 | Mansilla Jimena  | Semana 3      |  COMPLETADO✔️       |-Java fue asignada a Fernando Garcia. por no entregar a tiempo fue reasignada a Castro Agustina                         | 
-| Dasilva Daniel   | Semana 4      |   EN PROCESO:clock10:  |                         | 
+| Dasilva Daniel   | Semana 4      |   COMPLETADO✔️        |                         | 
 | Fernandez Gisela | Semana 5      |                       |                         | 
 | Garcia Fernando  | Semana 6      |                       |                         | 
 | Leone Franco     | Semana 7      |                       |                         | 
