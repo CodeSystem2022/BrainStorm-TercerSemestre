@@ -18,4 +18,4 @@ except Exception as e:
 finally:
           conexion.close()
           print('Termina la transaccion')
-    # https://www.psycopg.org/docs/usage.html
+    # https://www.psycopg.org/docs/usage.html 
