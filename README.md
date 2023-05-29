@@ -12,7 +12,7 @@
 </br>
 </br>
 
-|SCRUM  MASTER    | SEMANA        |         TAREA         |    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤOBSERVACIONES        |            
+|SCRUM  MASTER    | SEMANA        |         TAREA         |    ㅤㅤㅤㅤㅤㅤㅤㅤㅤOBSERVACIONES        |            
 | :---            | :-------:          |:-----:                 |:---                 |               
 | Giunta Pilar     | Semana 1 ㅤ     |   COMPLETADO✔️ㅤ        |-JavaScript fue asignada a Octavio Veron. por no ser entregada a tiempo, fue reasignada a Giunta Pilar              |                       
 | Castro Agustina  | Semana 2      |    COMPLETADO✔️       | | 
