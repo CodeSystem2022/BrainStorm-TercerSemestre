@@ -3,12 +3,10 @@
 ## - Tercer Semestre
 </br>
 
+ㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/05c71d0b-876c-4cce-abf7-76f2250003a6>" width="450" height="450" align="center"/>
 
-<img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113069344/05c71d0b-876c-4cce-abf7-76f2250003a6>" width="450" height="450" align="center"/>
 
-
-
-</br>
 </br>
 </br>
 
