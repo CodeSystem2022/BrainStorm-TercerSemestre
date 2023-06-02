@@ -16,7 +16,7 @@
 | Castro Agustina  | Semana 2      |    COMPLETADO✔️       | | 
 | Mansilla Jimena  | Semana 3      |  COMPLETADO✔️       |-Java fue asignada a Fernando Garcia. por no entregar a tiempo fue reasignada a Castro Agustina                         | 
 | Dasilva Daniel   | Semana 4      |   COMPLETADO✔️        |                         | 
-| Fernandez Gisela | Semana 5      |  EN PROCESO:clock10:  |                         | 
+| Fernandez Gisela | Semana 5      |   COMPLETADO✔️        |                         | 
 | Garcia Fernando  | Semana 6      |                       |                         | 
 | Leone Franco     | Semana 7      |                       |                         | 
 | Tonno Debora     | Semana 8      |                       |                         | 
