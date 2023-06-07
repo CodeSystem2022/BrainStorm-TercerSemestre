@@ -19,8 +19,8 @@
 | Fernandez Gisela | Semana 5      |   COMPLETADO✔️        |                         | 
 | Garcia Fernando  | Semana 6      |                       |                         | 
 | Leone Franco     | Semana 7      |                       |                         | 
-| Tonno Debora     | Semana 8      |                       |                         | 
-| Veron Octavio    | Semana 9      |                       |                         | 
+|      | Semana 8      |                       |                         | 
+|     | Semana 9      |                       |                         | 
 
 
 <details><summary>INTEGRANTES</summary>
@@ -35,8 +35,6 @@
 ► Fernando Garcia  
 ► Franco Leone  
 ► Mansilla Jimena  
-► Tonno Debora  
-► Veron Octavio 
 ```
 
 
