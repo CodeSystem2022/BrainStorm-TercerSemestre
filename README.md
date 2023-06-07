@@ -19,8 +19,8 @@
 | Fernandez Gisela | Semana 5      |   COMPLETADO✔️        |                         | 
 | Garcia Fernando  | Semana 6      |                       |                         | 
 | Leone Franco     | Semana 7      |                       |                         | 
-|      | Semana 8      |                       |                         | 
-|     | Semana 9      |                       |                         | 
+| Giunta Pilar     | Semana 8      |                       |                         | 
+| Castro Agustina    | Semana 9      |                       |                         | 
 
 
 <details><summary>INTEGRANTES</summary>
