@@ -1,0 +1,72 @@
+01: 20: 59 AM:DEBUG [Persona.py:54] 
+            Id Persona:1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@mail.com
+        
+01: 29: 27 AM:DEBUG [Persona.py:54] 
+            Id Persona:1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@mail.com
+        
+01: 29: 27 AM:DEBUG [Persona.py:56] 
+            Id Persona:None,
+            Nombre: Jose,
+            Apellido: Lepez,
+            Email: ljose@mail.com
+        
+01: 30: 39 AM:DEBUG [Persona.py:54] 
+            Id Persona:1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@mail.com
+        
+01: 30: 39 AM:DEBUG [Persona.py:56] 
+            Id Persona:None,
+            Nombre: Jose,
+            Apellido: Lepez,
+            Email: ljose@mail.com
+        
+01: 30: 59 AM:DEBUG [Persona.py:54] 
+            Id Persona:1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@mail.com
+        
+01: 30: 59 AM:DEBUG [Persona.py:56] 
+            Id Persona:None,
+            Nombre: Jose,
+            Apellido: Lepez,
+            Email: ljose@mail.com
+        
+01: 31: 49 AM:DEBUG [Persona.py:54] 
+            Id Persona:1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: jperez@mail.com
+        
+01: 31: 49 AM:DEBUG [Persona.py:56] 
+            Id Persona:None,
+            Nombre: Jose,
+            Apellido: Lepez,
+            Email: ljose@mail.com
+        
+01: 31: 49 AM:DEBUG [Persona.py:58] 
+            Id Persona:1,
+            Nombre: None,
+            Apellido: None,
+            Email: None
+        
+12: 29: 06 AM:DEBUG [conexion.py:25] Conexion Exitosa: <connection object at 0x0000016671E42790; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+12: 31: 08 AM:DEBUG [conexion.py:25] Conexion Exitosa: <connection object at 0x000001A92FCC2790; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+12: 35: 55 AM:ERROR [conexion.py:28] Ocurrio un error: connection to server at "127.0.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgre"
+
+12: 36: 50 AM:DEBUG [conexion.py:25] Conexion Exitosa: <connection object at 0x00000198C7322790; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+12: 36: 50 AM:ERROR [conexion.py:42] Ocurrio un error: 'NoneType' object has no attribute 'cursor'
+12: 41: 38 AM:DEBUG [conexion.py:25] Conexion Exitosa: <connection object at 0x000001F9042E2790; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+12: 41: 38 AM:DEBUG [conexion.py:39] Se abri� correctamente el cursos: <cursor object at 0x000001F90603B840; closed: 0>
+01: 31: 03 AM:DEBUG [conexion.py:25] Conexion Exitosa: <connection object at 0x0000020BEFD21580; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+01: 31: 03 AM:DEBUG [conexion.py:39] Se abri� correctamente el cursos: <cursor object at 0x0000020BF1F898C0; closed: 0>
+01: 31: 34 AM:DEBUG [conexion.py:25] Conexion Exitosa: <connection object at 0x00000131AD131580; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+01: 31: 34 AM:DEBUG [conexion.py:39] Se abri� correctamente el cursos: <cursor object at 0x00000131AF3B18C0; closed: 0>
