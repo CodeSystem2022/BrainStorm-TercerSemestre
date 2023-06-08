@@ -18,7 +18,7 @@
 | Dasilva Daniel   | Semana 4      |   COMPLETADO✔️        |                         | 
 | Fernandez Gisela | Semana 5      |   COMPLETADO✔️        |                         | 
 | Garcia Fernando  | Semana 6      |   COMPLETADO✔️                    |                         | 
-| Leone Franco     | Semana 7      |                       |                         | 
+| Leone Franco     | Semana 7      |  EN PROCESO🕑                     |                         | 
 | Debora Tonno     | Semana 8      |                       |                         | 
 | Octavio Veron    | Semana 9      |                       |                         | 
 
