@@ -21,7 +21,7 @@
 | Garcia Fernando  | Semana 7      |   COMPLETADO✔️                    |                         | 
 | Leone Franco     | Semana 8      |      COMPLETADO✔️                 |                         | 
 | Giunta Pilar    | Semana 9      |     EN PROCESO🕑                  | -Scrum Master (Semana 9) fue asignado a Debora Tonno y fue reasignado a Giunta Pilar         | 
-| Octavio Veron    | Semana 10      |                       | -Scrum Master (Semana 9) fue asignado a Debora Tonno y fue reasignado a Mansilla Jimena  | 
+| Octavio Veron    | Semana 10      |                       | -Scrum Master (Semana 10) fue asignado a Octavio Veron y fue reasignado a Mansilla Jimena  | 
 
 
 <details><summary>INTEGRANTES</summary>
