@@ -10,18 +10,18 @@
 </br>
 </br>
 
-|SCRUM  MASTER    | SEMANA        |         TAREA         |    ㅤㅤㅤㅤㅤㅤㅤㅤㅤOBSERVACIONES        |            
-| :---            | :-------:          |:-----:                 |:---                 |               
-| Giunta Pilar     | Semana 1 ㅤ     |   COMPLETADO✔️     |-JavaScript fue asignada a Octavio Veron. por no ser entregada a tiempo, fue reasignada a Giunta Pilar              |                       
-| Castro Agustina  | Semana 2      |    COMPLETADO✔️       | | 
-| Mansilla Jimena  | Semana 3      |  COMPLETADO✔️       |-Java fue asignada a Fernando Garcia. por no entregar a tiempo fue reasignada a Castro Agustina                         | 
-| Castro Agustina  | Semana 4     |    COMPLETADO✔️       | | 
-| Dasilva Daniel   | Semana 5      |   COMPLETADO✔️        |                         | 
-| Fernandez Gisela | Semana 6      |   COMPLETADO✔️        |                         | 
-| Garcia Fernando  | Semana 7      |   COMPLETADO✔️                    |                         | 
-| Leone Franco     | Semana 8      |      COMPLETADO✔️                 |                         | 
-| Giunta Pilar    | Semana 9      |     EN PROCESO🕑                  | -Scrum Master (Semana 9) fue asignado a Debora Tonno y fue reasignado a Giunta Pilar         | 
-| Octavio Veron    | Semana 10      |                       | -Scrum Master (Semana 10) fue asignado a Octavio Veron y fue reasignado a Mansilla Jimena  | 
+|SCRUM  MASTER    | SEMANA         |    TAREA   |    ㅤㅤㅤㅤㅤㅤㅤㅤㅤOBSERVACIONES               |            
+| :---            | :-------:      |:-----:     |                         :---                   |               
+| Giunta Pilar     | Semana 1      |COMPLETADA✔️|-JavaScript fue asignada a Octavio Veron. por no ser entregada a tiempo, fue reasignada a Giunta Pilar| 
+| Castro Agustina  | Semana 2      |COMPLETADA✔️|                                                                                                      | 
+| Mansilla Jimena  | Semana 3      |COMPLETADA✔️|-Java fue asignada a Fernando Garcia. por no entregar a tiempo fue reasignada a Castro Agustina       | 
+| Castro Agustina  | Semana 4      |COMPLETADA✔️|                                                                                                      | 
+| Dasilva Daniel   | Semana 5      |COMPLETADA✔️|                                                                                                      | 
+| Fernandez Gisela | Semana 6      |COMPLETADA✔️|                                                                                                      |  
+| Garcia Fernando  | Semana 7      |COMPLETADA✔️|                                                                                                      | 
+| Leone Franco     | Semana 8      |COMPLETADA✔️|                                                                                                      | 
+| Giunta Pilar     | Semana 9      |EN PROCESO🕑| -Scrum Master (Semana 9) fue asignado a Debora Tonno y fue reasignado a Giunta Pilar                 | 
+| Octavio Veron    | Semana 10     |EN PROCESO🕑| -Scrum Master (Semana 10) fue asignado a Octavio Veron y fue reasignado a Mansilla Jimena            | 
 
 
 <details><summary>INTEGRANTES</summary>
