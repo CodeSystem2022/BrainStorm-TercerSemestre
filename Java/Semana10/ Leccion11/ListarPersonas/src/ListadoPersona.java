@@ -55,7 +55,7 @@ public class ListadoPersonasApp {
                 //personas.forEach((persona) -> System.out.println(persona));
                 personas.forEach(System.out::println);
             }
-            case 3 ->{
+            case 3 ->{//Salir del ciclo
                 System.out.println("Hasta pronto....");
                 salir = true;
             }
