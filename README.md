@@ -22,7 +22,7 @@
 | Leone Franco     | Semana 8      |COMPLETADA✔️|                                                                                                      | 
 | Giunta Pilar     | Semana 9      |COMPLETADA✔️| -Scrum Master (Semana 9) fue asignado a Debora Tonno y fue reasignado a Giunta Pilar                 | 
 | Octavio Veron    | Semana 10     |COMPLETADA✔️| -Scrum Master (Semana 10) fue asignado a Octavio Veron y fue reasignado a Mansilla Jimena            |
-| Fernandez Gisela  | Semana 11     |COMPLETADA✔️|                                                                                                      | 
+| Fernandez Gisela  | Semana 11     |      |                                                                                                      | 
 
 
 <details><summary>INTEGRANTES</summary>
