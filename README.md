@@ -33,10 +33,10 @@
 ► Castro Agustina   
 ► Dasilva Daniel   
 ► Giunta Pilar   
-► Fernandez Gisela  
-► Fernando Garcia  
-► Franco Leone  
-► Mansilla Jimena 
+► Fernandez Gisela
+► Garcia Fernando 
+► Leone Franco
+► Mansilla Jimena
 ```
 
 
