@@ -31,10 +31,10 @@
 
 ```ruby
 ► Castro Agustina   
-► Dasilva Daniel   
-► Giunta Pilar   
+► Dasilva Daniel      
 ► Fernandez Gisela
-► Garcia Fernando 
+► Garcia Fernando
+► Giunta Pilar 
 ► Leone Franco
 ► Mansilla Jimena
 ```
